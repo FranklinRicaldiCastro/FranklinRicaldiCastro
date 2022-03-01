@@ -35,7 +35,7 @@ Soy RICALDI CASTRO Franklin Antolin desarrollador de Fullstack de Huaral, Peru.
 
 💻 Me encanta Programar! Me gustan mucho los deportes, incluidas muchas aventuras al aire libre.
 
-😄 Dato curioso: Una vez fui detenido en Perú  bajo sospecha de ser un espía internacional de FBI
+😄 Dato curioso: Una vez fui detenido en Perú  bajo sospecha de ser un espía internacional del FBI
 
 <table>
   <thead>
