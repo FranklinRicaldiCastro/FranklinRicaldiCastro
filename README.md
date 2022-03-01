@@ -29,5 +29,6 @@ Soy RICALDI CASTRO Franklin Antolin desarrollador de Fullstack de Huaral, Peru.
 
 ### Algunos datos curiosos sobre mi:
 
-⚡ Me encanta Programar! Me gustan mucho los deportes, incluidas muchas aventuras al aire libre.
+⚡ Soy egresado de Ingenieria de Sistemas y Computación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+💻 Me encanta Programar! Me gustan mucho los deportes, incluidas muchas aventuras al aire libre.
 
