@@ -22,9 +22,24 @@ Soy RICALDI CASTRO Franklin Antolin desarrollador de Fullstack de Huaral, Peru.
 <a href="https://www.twitch.tv/franklin_a_r_c" target="blank"><img align="center" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Redes%20Sociales/twitch.png" alt="" height="30" /></a>
 <a href="https://www.youtube.com/channel/UCHcDFWF0T2CizRO8EzQlkLQ" target="blank"><img align="center" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Redes%20Sociales/youtube.png" alt="" height="30" /></a>
 
-### Lenguajes de Programación y Marcos de Trabajo:
-
-      <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
+<table>
+  <thead>
+    <tr>
+      <td align="center">
+        <span><strong>Lenguajes de Programación</strong></span>
+      </td>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td align="center">
+        <img width="70%" src="https://github.com/oussamabouchikhi/oussamabouchikhi/blob/master/assets/skills.png" alt="cover" />
+      </td>
+    </tr>
+  </tbody>
+  
+</table>
 
 <img align="right" width="150" height="150" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Yo.gif"></a>
 
