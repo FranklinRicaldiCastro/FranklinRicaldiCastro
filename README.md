@@ -2,16 +2,13 @@
 FranklinRicaldiCastro/FranklinRicaldiCastro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 ## ¡Bienvenido a mi página!®™ 👋👋👋
 
-![](https://github.com/fricalcic/GitHub/blob/master/MishManners%20Room%20animated.jpg)
+![](https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Portada.jpg)
 
 ¡Eh! Me alegro de verte.
 
 Soy RICALDI CASTRO Franklin Antolin desarrollador de Fullstack de Huaral, Peru.
-
-<!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
 
 ### Encuentrame por toda la web:
 
