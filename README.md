@@ -13,12 +13,11 @@ Soy RICALDI CASTRO Franklin Antolin desarrollador de Fullstack de Huaral, Peru.
 ### Encuentrame por toda la web:
 
 <p align="left">
-<a href="https://twitter.com/FRANKLIN_A_R_C" target="blank"><img align="center" src="https://github.com/fricalcic/GitHub/blog/socials/twitter%20(2).png" alt="" height="30" /></a>
-<a href="https://www.linkedin.com/in/franklin-a-r-c/" target="blank"><img align="center" src="https://github.com/fricalcic/GitHub/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="https://www.instagram.com/franklin_a_r_c/?hl=es-la" target="blank"><img align="center" src="https://github.com/fricalcic/GitHub/blob/master/socials/instagram.png" alt="" height="30" /></a>
-<a href="https://www.twitch.tv/franklin_a_r_c" target="blank"><img align="center" src="https://github.com/fricalcic/GitHub/blob/master/socials/twitch.png" alt="" height="30" /></a>
-<a href="https://www.youtube.com/channel/UCHcDFWF0T2CizRO8EzQlkLQ" target="blank"><img align="center" src="https://github.com/fricalcic/GitHub/blob/master/socials/youtube.png" alt="" height="30" /></a>
-
+<a href="https://twitter.com/FRANKLIN_A_R_C" target="blank"><img align="center" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Redes%20Sociales/twitter.png" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/franklin-a-r-c/" target="blank"><img align="center" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Redes%20Sociales/linkedin.png" alt="" height="30" /></a>
+<a href="https://www.instagram.com/franklin_a_r_c/?hl=es-la" target="blank"><img align="center" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Redes%20Sociales/instagram.png" alt="" height="30" /></a>
+<a href="https://www.twitch.tv/franklin_a_r_c" target="blank"><img align="center" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Redes%20Sociales/twitch.png" alt="" height="30" /></a>
+<a href="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Redes%20Sociales/youtube.png" target="blank"><img align="center" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Redes%20Sociales/youtube.png" alt="" height="30" /></a>
 
 ### Yo tambien estoy escuchando:
 
