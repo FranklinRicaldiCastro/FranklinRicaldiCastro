@@ -14,6 +14,7 @@ Soy RICALDI CASTRO Franklin Antolin desarrollador de Fullstack de Huaral, Peru.
 
 <p align="left">
 <a href="https://www.facebook.com/IIIIIFACEBOKOFICIALIIIIIFranklinRicaldiCastroIIIII/" target="blank"><img align="center" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Redes%20Sociales/facebook.png" alt="" height="30" /></a>
+<a href="https://myaccount.google.com/u/2/?utm_source=OGB&utm_medium=app" target="blank"><img align="center" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Redes%20Sociales/chrome.png" alt="" height="30" /></a>
 <a href="https://twitter.com/FRANKLIN_A_R_C" target="blank"><img align="center" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Redes%20Sociales/twitter.png" alt="" height="30" /></a>
 <a href="https://www.linkedin.com/in/franklin-a-r-c/" target="blank"><img align="center" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Redes%20Sociales/linkedin.png" alt="" height="30" /></a>
 <a href="https://www.instagram.com/franklin_a_r_c/?hl=es-la" target="blank"><img align="center" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Redes%20Sociales/instagram.png" alt="" height="30" /></a>
