@@ -24,13 +24,9 @@ Soy RICALDI CASTRO Franklin Antolin desarrollador de Fullstack de Huaral, Peru.
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<img align="right" width="150" height="150" src="https://github.com/fricalcic/GitHub/blob/master/My-OctocatsShortest.gif"></a>
+<img align="right" width="150" height="150" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Yo.gif"></a>
 
 ### Algunos datos curiosos sobre mi:
 
 ⚡ Me encanta Programar! Me gustan mucho los deportes, incluidas muchas aventuras al aire libre.
 
-### Watch my contribution graph get eaten by the snake 🐍
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![mishmanners snake gif](https://github.com/fricalcic/GitHub/blob/output/github-contribution-grid-snake.svg)
