@@ -22,11 +22,22 @@ Soy RICALDI CASTRO Franklin Antolin desarrollador de Fullstack de Huaral, Peru.
 <a href="https://www.twitch.tv/franklin_a_r_c" target="blank"><img align="center" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Redes%20Sociales/twitch.png" alt="" height="30" /></a>
 <a href="https://www.youtube.com/channel/UCHcDFWF0T2CizRO8EzQlkLQ" target="blank"><img align="center" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Redes%20Sociales/youtube.png" alt="" height="30" /></a>
 
+<img align="right" width="150" height="150" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Yo.gif"></a>
+
+### Yo tambien estoy escuchando:
+
+
+### Algunos datos curiosos sobre mi:
+
+⚡ Soy egresado de Ingenieria de Sistemas y Computación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+💻 Me encanta Programar! Me gustan mucho los deportes, incluidas muchas aventuras al aire libre.
+
 <table>
   <thead>
     <tr>
       <td align="center">
-        <span><strong>Lenguajes de Programación</strong></span>
+        <span><strong>Lenguajes de Programación que Conosco</strong></span>
       </td>
     </tr>
   </thead>
@@ -40,15 +51,3 @@ Soy RICALDI CASTRO Franklin Antolin desarrollador de Fullstack de Huaral, Peru.
   </tbody>
   
 </table>
-
-<img align="right" width="150" height="150" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Yo.gif"></a>
-
-### Yo tambien estoy escuchando:
-
-
-### Algunos datos curiosos sobre mi:
-
-⚡ Soy egresado de Ingenieria de Sistemas y Computación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-💻 Me encanta Programar! Me gustan mucho los deportes, incluidas muchas aventuras al aire libre.
-
