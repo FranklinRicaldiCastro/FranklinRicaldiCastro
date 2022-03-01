@@ -22,12 +22,12 @@ Soy RICALDI CASTRO Franklin Antolin desarrollador de Fullstack de Huaral, Peru.
 <a href="https://www.twitch.tv/franklin_a_r_c" target="blank"><img align="center" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Redes%20Sociales/twitch.png" alt="" height="30" /></a>
 <a href="https://www.youtube.com/channel/UCHcDFWF0T2CizRO8EzQlkLQ" target="blank"><img align="center" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Redes%20Sociales/youtube.png" alt="" height="30" /></a>
 
-<img align="right" width="150" height="150" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Yo.gif"></a>
-
 ### Yo tambien estoy escuchando 🎧 🎧 🎧:
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) <br>
 
+<img align="right" width="150" height="150" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Yo.gif"></a>
+  
 ### Algunos datos curiosos sobre mi:
 
 ⚡ Soy egresado de Ingenieria de Sistemas y Computación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
