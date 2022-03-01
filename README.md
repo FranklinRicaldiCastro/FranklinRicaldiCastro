@@ -24,8 +24,9 @@ Soy RICALDI CASTRO Franklin Antolin desarrollador de Fullstack de Huaral, Peru.
 
 <img align="right" width="150" height="150" src="https://github.com/FranklinRicaldiCastro/Perfil_GitHub/blob/main/Yo.gif"></a>
 
-### Yo tambien estoy escuchando:
+### Yo tambien estoy escuchando 🎧 🎧 🎧:
 
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) <br>
 
 ### Algunos datos curiosos sobre mi:
 
