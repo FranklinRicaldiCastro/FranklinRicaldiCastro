@@ -32,7 +32,7 @@ Soy RICALDI CASTRO Franklin Antolin desarrollador de Fullstack de Huaral, Peru.
 
 ⚡ Soy egresado de Ingenieria de Sistemas y Computación <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-📫 Cómo comunicarse conmigo: +51 928538575    +51 966250034
+📫 Cómo comunicarse conmigo: +51 900216132
 
 💻 Me encanta Programar! Me gustan mucho los deportes, incluidas muchas aventuras al aire libre.
 
